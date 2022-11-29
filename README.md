@@ -6,7 +6,7 @@
 
 - 💻 🎧 I’m currently working on [adventJS](https://github.com/RicardoxDev/adventJS/)
 
-- 🌱 I’m currently learning **HTML, CSS, Node, Git**
+- 🌱 I’m currently learning **HTML, CSS, Node and Git**
 
 - 👨‍💻 All of my projects are available at [https://ricardodev.online](https://ricardodev.online)
 
@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **for in take const or let**
 
+- 🏃‍♂️  **Nigerundayo**:  "_Joseph_"
+ 
 - 🌀 If you have any feedback, please **reach out to us at ricardoxdev@gmail.com** 👨‍💻 
 
 <h3 align="center">Languages and Tools:</h3>
