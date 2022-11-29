@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ricardo Martínez</h1>
 <h3 align="center">A autodidact FullStack developer from Venezuela</h3>
 
