@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Martínez</h1>
 <h3 align="center">A autodidact FullStack developer from Venezuela</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardoxdev&label=Profile%20views&color=3c8ceb&style=flat" alt="ricardoxdev" /> </p>
 
 - 💻 🎧 I’m currently working on [adventJS](https://github.com/RicardoxDev/adventJS/)
 
