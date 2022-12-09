@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **JavaScript and repair MS Office:turtle:**
 
-- ⚡ Fun fact **for in take const or let**
+- ⚡ Fun fact **true + true === 2** _Just JS❤️_
 
-- 🏃‍♂️  **Nigerundayo**:  "_Joseph_"
+- 🏃‍♂️  **Nigerundayo**
  
 - 🌀 If you have any feedback, please **reach out to us at ricardoxdev@gmail.com** 👨‍💻 
 
