@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript and repair MS Office:turtle:**
 
-- ⚡ Fun fact **true + true === 2** _Just JS❤️_
+- ⚡ Fun fact **true + true === 2**... _Just JS❤️_
 
 - 🏃‍♂️  **Nigerundayo**
  
