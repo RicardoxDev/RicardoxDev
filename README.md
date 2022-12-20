@@ -4,7 +4,9 @@
 
 - 💻 🎧 I’m currently participating on [adventJS](https://adventjs.dev/es)
 
-- 🌱 I’m currently learning **HTML, CSS, TypeScript and Node**
+- 🌱 Starting in the development world
+
+- ✔️ Motivated to learn more
 
 - 👨‍💻 All of my projects are available at [https://ricardodev.online](https://ricardodev.online)
 
