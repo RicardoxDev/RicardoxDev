@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo Martínez</h1>
-<h2 align="center">A autodidact FullStack developer from Venezuela</h2>
+<h2 align="center">An autodidact FullStack developer from Venezuela</h2>
 
 
 - 💻 🎧 I’m currently participating on [adventJS](https://adventjs.dev/es)
