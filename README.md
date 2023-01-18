@@ -53,4 +53,8 @@
 
 
 
-- 🌀 If you have any feedback, please **reach out to us at ricardoxdev@gmail.com** 👨‍💻 
+<div align="center"> 🌀 If you have any feedback, please <b>reach out to me</b> 👨‍💻
+    <br />
+    <a href="https://ricardodev.online" >ricardodev.online</a> |
+    ricardoxdev@gmail.com
+</div>
