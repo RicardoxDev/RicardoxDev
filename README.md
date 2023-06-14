@@ -24,7 +24,7 @@
 </br>
 
 <div align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoxdev&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en" />
 </div>
   
 <br />
