@@ -12,7 +12,7 @@
  
 <div align="center">
  <h2 align="center">Skills</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bash,git,md,express,mongodb&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,c,nodejs,deno,bash,git,supabase,md,express,django,nestjs,docker,mongodb,redis,postgres&perline=5" />
 </div>
 
 </br>
@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoxdev&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en" />
 </div>
-  
+
 <br />
  
  
