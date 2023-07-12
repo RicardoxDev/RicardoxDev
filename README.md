@@ -12,7 +12,7 @@
  
 <div align="center">
  <h2 align="center">Skills</h2>
-    <img src="https://skillicons.dev/icons?i=ts,py,go,c,nodejs,deno,bash,git,supabase,express,django,nestjs,docker,mongodb,redis,postgres&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,go,c,nodejs,deno,supabase,flask,express,django,nestjs,docker,mongodb,redis,postgres,jenkins,kafka,rabbitmq,bash,git,nginx&perline=5" />
 </div>
 
 </br>
