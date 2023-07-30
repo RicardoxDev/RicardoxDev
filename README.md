@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ricardo Martínez</h1>
-<h2 align="center"><b>A FullStack developer from Venezuela</b></h2>
+<h2 align="center"><b>A Backend Developer from Venezuela</b></h2>
  
 <div align="center">
 
