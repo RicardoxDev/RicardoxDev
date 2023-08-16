@@ -1,18 +1,11 @@
 <h1 align="center">Hi, I'm Ricardo Martínez</h1>
 <h2 align="center"><b>A Backend Developer from Venezuela</b></h2>
- 
-<div align="center">
-
-  ![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
-  ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-</div>
 
 </div>
  
 <div align="center">
  <h2 align="center">Skills</h2>
-    <img src="https://skillicons.dev/icons?i=js,ts,py,go,c,nodejs,deno,supabase,flask,express,fastapi,django,nestjs,docker,mongodb,redis,postgres,jenkins,kafka,rabbitmq,bash,git,nginx&perline=5" />
+    <img src="https://skillicons.dev/icons?i=ts,py,go,c,nodejs,deno,supabase,flask,express,fastapi,django,nestjs,docker,mongodb,redis,postgres,jenkins,kafka,rabbitmq,bash,git,nginx&perline=5" />
 </div>
 
 </br>
