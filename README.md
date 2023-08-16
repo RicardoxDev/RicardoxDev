@@ -2,10 +2,10 @@
 <h2 align="center"><b>A Backend Developer from Venezuela</b></h2>
 
 </div>
- 
+ <!-- TODO: add elastic search icon -->
 <div align="center">
  <h2 align="center">Skills</h2>
-    <img src="https://skillicons.dev/icons?i=ts,py,go,c,nodejs,deno,supabase,flask,express,fastapi,django,nestjs,docker,mongodb,redis,postgres,jenkins,kafka,rabbitmq,bash,git,nginx&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,go,python,bash,ts,nodejs,docker,mongodb,redis,postgres,jenkins,rabbitmq,kafka,kubernetes,linux,git,nginx&perline=5" />
 </div>
 
 </br>
